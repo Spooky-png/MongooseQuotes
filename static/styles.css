@@ -1,0 +1,36 @@
+h5{
+    color: blue;
+}
+h4{
+    color: gray;
+    font-style: oblique;
+}
+.quotes{
+    width: 1000px;
+    height: 500px;
+    border: blue solid 3px;
+    border-radius: 20px;
+}
+.signup{
+    width: 1000px;
+    height: 500px;
+    border: blue solid 3px;
+    border-radius: 20px;
+}
+label{
+    color: gray;
+    font-weight: bold;
+}
+button{
+    margin: 10px;
+    margin-left: 150px;
+}
+input{
+    margin: 30px;
+}
+#skip{
+    background-color: darkred;
+}
+#create{
+    background-color: darkturquoise;
+}
